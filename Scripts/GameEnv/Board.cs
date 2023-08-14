@@ -11,15 +11,16 @@ public class Board : MonoBehaviour
 {
     [SerializeField] private Transform bottomLeftSquarePos;
     [SerializeField] private float squareSize;
-    [SerializeField] public Text turnPrintText;
-    [SerializeField] public GameController? gameController;
-    [SerializeField] public AIController? aiController;
-    [SerializeField] public Text? turnHistoryTextBox;
+    [SerializeField] private Text turnPrintText;
+    [SerializeField] private GameController? gameController;
+    [SerializeField] private AIController? aiController;
+    [SerializeField] private Text? turnHistoryTextBox;
+
     public bool isAIBoard;
     public bool isNetplay = false;
-    private int startX, startY, endX, endY;
-
     public int BOARD_SIZE = 8;
+
+    private int startX, startY, endX, endY;
     private float squareOffset = 0.5f;
 
     //turn display

@@ -10,14 +10,15 @@ using UnityEngine.UI;
 public class AIController : MonoBehaviour
 {
     [SerializeField] private BoardLayout initialLayout;
-    [SerializeField] public Board aiboard;
 
+    public Board aiboard;
+    public bool isAiGame;
     public PieceCreator pieceCreator;
     public Player whitePlayer;
     public Player blackPlayer;
     public Player activePlayer;
+    
     private GameState gameState;
-    [SerializeField] public bool isAiGame;
 
     public AISaveStateManager aiSaveState;
     private enum GameState

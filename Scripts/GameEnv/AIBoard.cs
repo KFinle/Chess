@@ -17,7 +17,6 @@
     public Player whitePlayer;
     public Player blackPlayer;
     public Player activePlayer;
-
     public List<string> boardStateHistory;
 
 

@@ -14,25 +14,24 @@ public class GameController : MonoBehaviour
     [SerializeField] private Board board;
     [SerializeField] private UIManager uiManager;
     [SerializeField] private CameraController camera;
-    [SerializeField] public GameObject pauseScreen;
-    [SerializeField] public GameObject historyScreen;
+    [SerializeField] private GameObject pauseScreen;
+    [SerializeField] private GameObject historyScreen;
 
+    public bool isAiGame;
     public Button restartButton;
     public GameObject? chatbarContainer;
-
     public ChatManager chatManager;
-
     public AISaveStateManager aiSaveState;
     public Minimax minimax;
     public PieceCreator pieceCreator;
     public Player whitePlayer;
     public Player blackPlayer;
     public Player activePlayer;
-    private GameState gameState;
-    [SerializeField] public bool isAiGame;
-    private bool conceeded = false;
     public int halfmoveClock = 0;
     public int fullmoveNumber = 1;
+    
+    private GameState gameState;
+    private bool conceeded = false;
 
     private enum GameState
     {

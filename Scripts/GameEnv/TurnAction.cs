@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class TurnAction 
 {
-     public Player activePlayer;
+    public Player activePlayer;
     public Piece _pieceMoved;
     public Vector2Int _pieceStartLocation;
     public Vector2Int _pieceEndLocation;
