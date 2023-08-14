@@ -5,27 +5,26 @@ Playable MacOS and Windows builds available for download under Releases.
 
 ## Screenshots
 
-![image](https://github.com/KFinle/Chess/assets/72676162/91cf4ccc-5da8-42bc-922e-ed3f6f021fcb)
-
-![image](https://github.com/KFinle/Chess/assets/72676162/4e979794-66eb-447f-93ee-180e7ef695f7)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/1-min.png)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/2-min.png)
 <hr>
 
 ### Play against the CPU!
 
-![Screen Shot 2023-08-14 at 1 47 41 AM](https://github.com/KFinle/Chess/assets/72676162/6546b261-8597-4882-b0b9-419b7a5f6486)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/3-min.png)
 <hr>
 
 ### Play local games!
 
-![image](https://github.com/KFinle/Chess/assets/72676162/46c159e9-fb97-49bf-9f9f-23ddd73a647f)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/4-min.png)
 
-![image](https://github.com/KFinle/Chess/assets/72676162/1a4475ca-264b-41a8-b9b6-6a0e02be1eca)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/5-min.png)
 <hr>
 
 ### P2P Online play!
-![image](https://github.com/KFinle/Chess/assets/72676162/9bfb6ae5-c14a-4aa4-a948-9ce8b9e22412)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/6-min.png)
 
-![image](https://github.com/KFinle/Chess/assets/72676162/63ef54c1-a282-4b0c-ac55-f0524b163b6b)
+![image](https://github.com/KFinle/Chess/blob/main/ReadMeImages/7-min.png)
 
 <hr>
 
