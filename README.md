@@ -1,5 +1,5 @@
 # Chess
-Chess project created with a 3-month time limit for Object Oriented ProgrammingIII | Computer Programming and Analysis<br>
+Created with a 3-month time limit for Object Oriented Programming III | Computer Programming and Analysis<br>
 Unity Project files not for public download, but this repo displays the scripts used.<br>
 Playable MacOS and Windows builds available for download under Releases. 
 
